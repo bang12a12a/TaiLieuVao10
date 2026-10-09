@@ -1,0 +1,27 @@
+﻿TÀI LIỆU ÔN THI VÀO 10 MÔN TOÁN – MỤC TIÊU 8,0 – 8,5 ĐIỂM (KỲ THI NĂM 2027)
+===========================================================================
+
+Các thư mục được đánh số theo THỨ TỰ ĐƯA CHO EM. Đến thời điểm nào thì mở thư mục đó.
+
+1_DUA_NGAY_thang_10_2026
+   01_Lo_trinh...DOC_TRUOC.docx   Đọc đầu tiên: kỳ thi, kế hoạch điểm, lộ trình từng tháng,
+                                  sổ lỗi và bảng theo dõi (Phần V – nên in ra để điền).
+   02_De_chan_doan...docx         Làm trong tuần này, 60 phút, không xem tài liệu.
+                                  Làm xong đưa anh/chị chấm.
+   03_So_tay_Chu_de_1-16.docx     Kiến thức + bài tập; lời giải ở cuối sổ để tự chấm.
+   04_So_tay_bo_sung_Tap_1...docx Chủ đề 17 – 20 (học kỳ I).
+   → Học theo bảng "Lộ trình theo tháng" (Phần III của file 01).
+
+2_DUA_thang_02_2027               Sổ tay bổ sung Tập 2 (Chủ đề 21 – 25, học kỳ II).
+3_DUA_cuoi_thang_03_2027          Đề luyện số 01 – làm đủ 120 phút (thi thử lần 1).
+4_DUA_thang_04_2027               Đề tham khảo Ninh Bình 2026, đề chính thức Nam Định 2025 – 2026.
+                                  Mỗi tuần 1 đề, 120 phút.
+5_DUA_2-3_tuan_truoc_ki_thi       Đề chính thức Ninh Bình 2026 – 2027: làm như thi thật để tổng duyệt.
+
+ANH_GIU_dap_an_khong_dua_em       Đáp án, lời giải, bảng chẩn đoán, báo cáo đánh giá.
+                                  Chấm bài xong mới đưa lời giải để em chữa lỗi.
+
+Gợi ý: in file 01, 03, 04. Nếu gửi qua điện thoại, mở file Word rồi chọn
+"Lưu thành PDF" (Save as PDF) để công thức không bị lệch.
+Từ tháng 4/2027 cần thêm đề cấu trúc mới (đề thi thử các trường/cụm trường
+Ninh Bình) – xem Toán/Đề thi/README_De_Thi_Vao_10_Toan.md.

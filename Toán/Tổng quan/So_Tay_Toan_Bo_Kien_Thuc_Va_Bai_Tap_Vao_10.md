@@ -11,6 +11,8 @@
 >   + **Mức 7.0 - 7.5/10 (Vận dụng thấp - Vững vàng):** Dạng toán điển hình có trong đề thi, cầm chắc ngưỡng 7.5 điểm.
 >   + **Mức 8.0 - 8.5/10 (Vận dụng khá - Bứt phá):** Dạng toán then chốt giúp đạt mục tiêu trúng tuyển THPT Vũ Văn Hiếu.
 >   + **Mức 9.0 - 9.5/10 (Vận dụng cao - Chinh phục đỉnh cao):** Thử thách trí tuệ, phân loại học sinh giỏi để đạt 9.0 - 10.0.
+> - **Lưu ý:** các câu/bài mức 9.0 – 9.5/10 là **ĐỌC THÊM**. Đề tuyển sinh từ năm 2025 (theo Chương trình GDPT 2018) không còn mức vận dụng cao riêng: Nhận biết 40% – Thông hiểu 30% – Vận dụng 30%.
+> - **Nội dung chương trình mới** (thống kê – xác suất, bất phương trình, cung – hình quạt, đa giác đều – phép quay, hình học thực tế…) nằm trong **Sổ tay bổ sung – Chủ đề 17 – 25** (Phần 1: học kỳ I, Phần 2: học kỳ II).
 > - **Quy tắc vàng:** Tự giải bài tập ra vở trước khi lật xem đáp án ở phần cuối tài liệu!
 
 ---
@@ -31,16 +33,16 @@
 > A. $4x^2 - 9$        B. $4x^2 - 12x + 9$        C. $4x^2 + 12x + 9$        D. $2x^2 - 12x + 9$
 
 **Câu 1.2 [Độ khó: 5.5/10 - Thông hiểu]: Cho $x + y = 5$ và $x \cdot y = 3$. Giá trị của biểu thức $x^2 + y^2$ là:**
-> A. $19$        B. $22$        C. $25$        D. $16$
+> A. $25$        B. $22$        C. $19$        D. $16$
 
 **Câu 1.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Rút gọn biểu thức $M = (x + 2)^3 - (x - 2)^3 - 12x^2$ ta được:**
-> A. $16$        B. $0$        C. $-16$        D. $24x$
+> A. $-16$        B. $0$        C. $16$        D. $24x$
 
 **Câu 1.4 [Độ khó: 8.0/10 - Vận dụng khá]: Cho các số $a, b, c$ thỏa mãn $a + b + c = 0$. Rút gọn biểu thức $a^3 + b^3 + c^3$ ta được:**
 > A. $abc$        B. $3abc$        C. $0$        D. $-3abc$
 
 **Câu 1.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho số thực $x$ thỏa mãn $x + \frac{1}{x} = 3$. Giá trị của biểu thức $x^5 + \frac{1}{x^5}$ là:**
-> A. $123$        B. $126$        C. $119$        D. $144$
+> A. $144$        B. $126$        C. $119$        D. $123$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 1.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -80,7 +82,7 @@ Cho ba số thực dương $a, b, c$ thỏa mãn $a^3 + b^3 + c^3 = 3abc$.
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 2.1 [Độ khó: 4.0/10 - Nhận biết]: Phân tích đa thức $x^2 - 5x + 6$ thành nhân tử ta được:**
-> A. $(x - 1)(x - 6)$        B. $(x - 2)(x - 3)$        C. $(x + 2)(x + 3)$        D. $(x + 1)(x - 6)$
+> A. $(x - 1)(x - 6)$        B. $(x + 1)(x - 6)$        C. $(x + 2)(x + 3)$        D. $(x - 2)(x - 3)$
 
 **Câu 2.2 [Độ khó: 5.5/10 - Thông hiểu]: Rút gọn phân thức $\frac{x^2 - 4}{2 - x}$ với $x \ne 2$ ta được:**
 > A. $x + 2$        B. $-(x + 2)$        C. $x - 2$        D. $2 - x$
@@ -120,7 +122,7 @@ Chứng minh rằng với mọi số nguyên $n$, biểu thức $A = n^3 - n$ lu
 
 ---
 
-## Chủ đề 3: Tam giác đồng dạng & Định lý Ta-lét (Chìa khóa câu hình 4b)
+## Chủ đề 3: Tam giác đồng dạng & Định lý Ta-lét (Chìa khóa ý b bài hình phẳng)
 
 ### 1. Lý thuyết cốt lõi cần nhớ
 - **Định lý Ta-lét: ** $$\text{Nếu } MN // BC \implies \frac{AM}{AB} = \frac{AN}{AC} = \frac{MN}{BC}$$
@@ -133,16 +135,16 @@ Chứng minh rằng với mọi số nguyên $n$, biểu thức $A = n^3 - n$ lu
 > A. $3$        B. $6$        C. $9$        D. $\frac{1}{3}$
 
 **Câu 3.2 [Độ khó: 5.5/10 - Thông hiểu]: Cho $\Delta ABC$ có $DE // BC$ ($D \in AB, E \in AC$). Biết $AD = 2\text{ cm}, DB = 4\text{ cm}, AE = 3\text{ cm}$. Độ dài $AC$ là:**
-> A. $6\text{ cm}$        B. $9\text{ cm}$        C. $8\text{ cm}$        D. $5\text{ cm}$
+> A. $6\text{ cm}$        B. $5\text{ cm}$        C. $8\text{ cm}$        D. $9\text{ cm}$
 
 **Câu 3.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Cho hình thang $ABCD$ ($AB // CD$) có $AB = 4\text{ cm}, CD = 6\text{ cm}$. Hai đường chéo cắt nhau tại $O$. Tỉ số $\frac{OA}{OC}$ là:**
-> A. $\frac{2}{3}$        B. $\frac{3}{2}$        C. $\frac{4}{9}$        D. $\frac{1}{2}$
+> A. $\frac{3}{2}$        B. $\frac{2}{3}$        C. $\frac{4}{9}$        D. $\frac{1}{2}$
 
 **Câu 3.4 [Độ khó: 8.0/10 - Vận dụng khá]: Tam giác $ABC$ vuông tại $A$, đường cao $AH$. Biết $BH = 4\text{ cm}, CH = 9\text{ cm}$. Độ dài đường cao $AH$ là:**
 > A. $6\text{ cm}$        B. $6{,}5\text{ cm}$        C. $\sqrt{13}\text{ cm}$        D. $36\text{ cm}$
 
 **Câu 3.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho $\Delta ABC$ vuông tại $A$ có phân giác $AD = 6\sqrt{2}\text{ cm}$. Biết $\frac{1}{AB} + \frac{1}{AC}$ bằng:**
-> A. $\frac{1}{6}$        B. $\frac{1}{3}$        C. $\frac{\sqrt{2}}{6}$        D. $\frac{1}{12}$
+> A. $\frac{\sqrt{2}}{6}$        B. $\frac{1}{3}$        C. $\frac{1}{6}$        D. $\frac{1}{12}$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 3.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -173,7 +175,7 @@ Cho tam giác nhọn $ABC$ có ba đường cao $AD, BE, CF$ cắt nhau tại tr
 
 ---
 
-# PHẦN 1: HỌC KỲ I - ĐẠI SỐ 9
+# PHẦN 1: ĐẠI SỐ – CĂN THỨC & HÀM SỐ BẬC NHẤT
 
 ## Chủ đề 4: Căn bậc hai, Căn bậc ba & Biến đổi biểu thức chứa căn
 
@@ -182,6 +184,9 @@ Cho tam giác nhọn $ABC$ có ba đường cao $AD, BE, CF$ cắt nhau tại tr
 - **Hằng đẳng thức căn bậc hai: ** $$\sqrt{A^2} = |A| = \begin{cases} A & \text{nếu } A \ge 0 \\ -A & \text{nếu } A < 0 \end{cases}$$
 - **Đưa thừa số ra ngoài dấu căn: ** $$\sqrt{A^2 B} = |A|\sqrt{B} \quad (B \ge 0)$$
 - **Trục căn thức ở mẫu: ** $$\frac{1}{\sqrt{a} \pm \sqrt{b}} = \frac{\sqrt{a} \mp \sqrt{b}}{a - b}$$
+- **Căn bậc ba:** $$\sqrt[3]{a} = x \Leftrightarrow x^3 = a; \quad \sqrt[3]{a^3} = a; \quad \sqrt[3]{ab} = \sqrt[3]{a} \cdot \sqrt[3]{b}; \quad a < b \Leftrightarrow \sqrt[3]{a} < \sqrt[3]{b}$$
+- **Khai phương:** $$\sqrt{AB} = \sqrt{A} \cdot \sqrt{B}\ (A, B \ge 0); \quad \sqrt{\frac{A}{B}} = \frac{\sqrt{A}}{\sqrt{B}}\ (A \ge 0, B > 0); \quad \frac{A}{\sqrt{B}} = \frac{A\sqrt{B}}{B}\ (B > 0)$$
+> 📎 Xem thêm: Sổ tay bổ sung – Chủ đề 18 (tính giá trị và chứng minh đẳng thức số chứa căn – dạng Bài 1a đề mới).
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 4.1 [Độ khó: 4.0/10 - Nhận biết]: Biểu thức $\sqrt{3x - 6}$ có nghĩa khi và chỉ khi:**
@@ -191,7 +196,7 @@ Cho tam giác nhọn $ABC$ có ba đường cao $AD, BE, CF$ cắt nhau tại tr
 > A. $3$        B. $2\sqrt{5} - 3$        C. $-3$        D. $2\sqrt{5} + 3$
 
 **Câu 4.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Rút gọn biểu thức $M = \sqrt{8} - 2\sqrt{18} + \sqrt{50}$ ta được:**
-> A. $\sqrt{2}$        B. $2\sqrt{2}$        C. $-\sqrt{2}$        D. $3\sqrt{2}$
+> A. $2\sqrt{2}$        B. $\sqrt{2}$        C. $-\sqrt{2}$        D. $3\sqrt{2}$
 
 **Câu 4.4 [Độ khó: 8.0/10 - Vận dụng khá]: Tập nghiệm của phương trình $\sqrt{x^2 - 4x + 4} = 3$ là:**
 > A. $\{5\}$        B. $\{-1\}$        C. $\{-1; 5\}$        D. $\{1; -5\}$
@@ -225,17 +230,19 @@ $$\sqrt{x + 3} + \sqrt{6 - x} = 3 + \sqrt{(x + 3)(6 - x)}$$
 
 ---
 
-## Chủ đề 5: Rút gọn biểu thức đại số chứa căn & Câu hỏi phụ (Bài 1 đề thi)
+## Chủ đề 5: Rút gọn biểu thức đại số chứa căn & Câu hỏi phụ (Bài 1b đề thi)
 
 ### 1. Lý thuyết cốt lõi cần nhớ
 - **Quy trình 4 bước rút gọn: ** $$\text{1) ĐKXĐ} \to \text{2) Phân tích mẫu} \to \text{3) Quy đồng & thu gọn tử} \to \text{4) Rút gọn}$$
 - **Dạng tính giá trị tại x = a: ** $$\text{Bắt buộc đối chiếu } x = a \text{ với ĐKXĐ trước khi thay số}$$
 - **Dạng so sánh biểu thức với số k: ** $$\text{Xét hiệu } P - k \text{ và chứng minh hiệu mang dấu âm hoặc dương}$$
 - **Dạng tìm x để biểu thức nguyên: ** $$P = \text{Phần nguyên} + \frac{m}{\text{Mẫu}} \implies \text{Mẫu} \in \text{Ước}(m)$$
+- **Cô-si (dùng ở Câu 5.5, Bài 5.5):** $$a + b \ge 2\sqrt{ab}\ (a, b \ge 0), \text{ dấu "=" } \Leftrightarrow a = b$$
+> 📌 Đề tuyển sinh 2025, 2026 (Ninh Bình, Nam Định) không có câu hỏi phụ kiểu "tìm $x$ để $P$ nguyên": Bài 1 gồm tính giá trị / chứng minh đẳng thức số và rút gọn. Ưu tiên Bài 5.1, 5.2; các bài 5.3 – 5.5 để luyện thêm.
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 5.1 [Độ khó: 4.0/10 - Nhận biết]: Cho biểu thức $P = \frac{\sqrt{x} - 2}{\sqrt{x} + 1}$ với $x \ge 0$. Giá trị của $P$ tại $x = 9$ là:**
-> A. $\frac{1}{4}$        B. $\frac{1}{2}$        C. $-\frac{1}{4}$        D. $\frac{7}{4}$
+> A. $-\frac{1}{4}$        B. $\frac{1}{2}$        C. $\frac{1}{4}$        D. $\frac{7}{4}$
 
 **Câu 5.2 [Độ khó: 5.5/10 - Thông hiểu]: Tìm $x$ để biểu thức $P = \frac{\sqrt{x} - 3}{\sqrt{x} + 2}$ bằng $0$ (với $x \ge 0$):**
 > A. $x = 3$        B. $x = 9$        C. $x = 0$        D. Không có $x$
@@ -244,10 +251,10 @@ $$\sqrt{x + 3} + \sqrt{6 - x} = 3 + \sqrt{(x + 3)(6 - x)}$$
 > A. $0 \le x < 1$        B. $x < 1$        C. $x > 1$        D. $x \ge 0$
 
 **Câu 5.4 [Độ khó: 8.0/10 - Vận dụng khá]: Số các giá trị nguyên của $x$ để biểu thức $A = \frac{4}{\sqrt{x} + 1}$ nhận giá trị nguyên là:**
-> A. $3$        B. $4$        C. $2$        D. $1$
+> A. $2$        B. $4$        C. $3$        D. $1$
 
 **Câu 5.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho $x > 0$. Giá trị nhỏ nhất của biểu thức $P = \frac{x + 4}{\sqrt{x}}$ là:**
-> A. $4$        B. $2$        C. $8$        D. $1$
+> A. $2$        B. $4$        C. $8$        D. $1$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 5.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -268,12 +275,12 @@ Cho biểu thức $Q = \frac{\sqrt{x} + 3}{\sqrt{x} - 2}$ với $x \ge 0, x \ne 
 
 **Bài 5.4 [Độ khó: 8.5/10 - Vận dụng cao thử thách]:**
 Cho biểu thức $M = \frac{x - \sqrt{x} + 1}{\sqrt{x} + 1}$ với $x \ge 0$.
-- a) Tìm tất cả các giá trị hữu tỉ của $x$ để $M$ nhận giá trị nguyên.
+- a) Tìm tất cả các giá trị nguyên của $x$ để $M$ nhận giá trị nguyên.
 - b) So sánh biểu thức $M$ với số $1$.
 
 **Bài 5.5 [Độ khó: 9.5/10 - Chinh phục điểm 9 - 10]:**
-Cho biểu thức rút gọn $P = \frac{\sqrt{x}}{\sqrt{x} + 2}$ với $x \ge 0$.
-- Tìm giá trị nhỏ nhất của biểu thức $K = \frac{1}{P} + P$.
+Cho biểu thức rút gọn $P = \frac{\sqrt{x}}{\sqrt{x} + 2}$ với $x > 0$.
+- Tìm giá trị nhỏ nhất của biểu thức $K = \frac{1}{P} + 4P$.
 
 > 🔒 **LƯU Ý TRA CỨU ĐÁP ÁN:** Em hãy tự giải ra vở trước, không xem đáp án trước. Khi làm xong, hãy lật xem **ĐÁP ÁN VÀ LỜI GIẢI CHI TIẾT TẠI Mục B.2** ở phần cuối tài liệu.
 
@@ -285,22 +292,23 @@ Cho biểu thức rút gọn $P = \frac{\sqrt{x}}{\sqrt{x} + 2}$ với $x \ge 0$
 - **Tính chất đồng biến / nghịch biến: ** $$y = ax + b \ (a \ne 0) \text{ đồng biến khi } a > 0, \text{ nghịch biến khi } a < 0$$
 - **Vị trí tương đối hai đường thẳng: ** $$(d) // (d') \iff a = a', b \ne b'; \quad (d) \text{ cắt } (d') \iff a \ne a'; \quad (d) \perp (d') \iff a \cdot a' = -1$$
 - **Điểm thuộc đường thẳng: ** $$M(x_0; y_0) \in (d) \iff y_0 = ax_0 + b$$
+> 📌 Chương trình 2018: hàm số bậc nhất $y = ax + b$ đã học ở lớp 8; đề mới chỉ hỏi ở mức trắc nghiệm nhận biết (ví dụ: nhận dạng hàm số bậc nhất). Ôn nhanh chủ đề này.
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 6.1 [Độ khó: 4.0/10 - Nhận biết]: Trong các hàm số sau, hàm số nào đồng biến trên $\mathbb{R}$?**
 > A. $y = -2x + 1$        B. $y = (\sqrt{3} - 2)x + 5$        C. $y = 3x - 4$        D. $y = \frac{2}{x} + 1$
 
 **Câu 6.2 [Độ khó: 5.5/10 - Thông hiểu]: Đường thẳng $y = (m - 2)x + 3$ song song với đường thẳng $y = 2x - 1$ khi $m$ bằng:**
-> A. $m = 4$        B. $m = 2$        C. $m = 0$        D. $m = -4$
+> A. $m = 0$        B. $m = 2$        C. $m = 4$        D. $m = -4$
 
 **Câu 6.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Điểm $M(1; 2)$ thuộc đồ thị hàm số $y = (m - 1)x + 3$ khi:**
 > A. $m = 0$        B. $m = 1$        C. $m = -1$        D. $m = 2$
 
 **Câu 6.4 [Độ khó: 8.0/10 - Vận dụng khá]: Đường thẳng $(d): y = (2m - 1)x + 3$ vuông góc với đường thẳng $(d'): y = -\frac{1}{3}x + 2$ khi $m$ bằng:**
-> A. $m = 2$        B. $m = 1$        C. $m = -1$        D. $m = 3$
+> A. $m = 3$        B. $m = 1$        C. $m = -1$        D. $m = 2$
 
 **Câu 6.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Khoảng cách từ gốc tọa độ $O$ đến đường thẳng $(d): (m - 1)x + y = 2$ đạt giá trị lớn nhất là:**
-> A. $2$        B. $1$        C. $4$        D. $\sqrt{2}$
+> A. $\sqrt{2}$        B. $1$        C. $4$        D. $2$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 6.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -329,26 +337,31 @@ Cho đường thẳng $(d): mx + (m - 1)y = 2$ ($m$ là tham số).
 
 ---
 
-# PHẦN 2: HỌC KỲ I - HÌNH HỌC 9
+# PHẦN 2: HÌNH HỌC – TAM GIÁC VUÔNG & ĐƯỜNG TRÒN
 
 ## Chủ đề 7: Hệ thức lượng trong tam giác vuông & Tỉ số lượng giác
 
 ### 1. Lý thuyết cốt lõi cần nhớ
 - **Các hệ thức lượng vuông: ** $$b^2 = a \cdot b'; \quad c^2 = a \cdot c'; \quad h^2 = b' \cdot c'; \quad a \cdot h = b \cdot c; \quad \frac{1}{h^2} = \frac{1}{b^2} + \frac{1}{c^2}$$
 - **Định nghĩa tỉ số lượng giác góc nhọn: ** $$\sin \alpha = \frac{\text{đối}}{\text{huyền}}; \quad \cos \alpha = \frac{\text{kề}}{\text{huyền}}; \quad \tan \alpha = \frac{\text{đối}}{\text{kề}}; \quad \cot \alpha = \frac{\text{kề}}{\text{đối}}$$
+- **Góc phụ nhau:** $$\sin\alpha = \cos(90^\circ - \alpha); \quad \tan\alpha = \cot(90^\circ - \alpha)$$
+- **Hệ thức cơ bản:** $$\sin^2\alpha + \cos^2\alpha = 1; \quad \tan\alpha = \frac{\sin\alpha}{\cos\alpha}; \quad \tan\alpha \cdot \cot\alpha = 1$$
+- **Cạnh và góc** ($\Delta ABC$ vuông tại $A$): $$AC = BC\sin B = BC\cos C; \quad AC = AB\tan B = AB\cot C$$
+> 📌 Chương trình 2018: các hệ thức $b^2 = ab'$, $h^2 = b'c'$ không còn là bài học riêng; ưu tiên tỉ số lượng giác và giải tam giác vuông.
+> 📎 Xem thêm: Sổ tay bổ sung – Chủ đề 19 (tỉ số lượng giác, giải tam giác vuông trong thực tế, bảng giá trị đặc biệt).
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 7.1 [Độ khó: 4.0/10 - Nhận biết]: Tam giác $ABC$ vuông tại $A$ có $AB = 6\text{ cm}, BC = 10\text{ cm}$. Độ dài đường cao $AH$ là:**
 > A. $4{,}8\text{ cm}$        B. $5\text{ cm}$        C. $3{,}6\text{ cm}$        D. $6{,}4\text{ cm}$
 
 **Câu 7.2 [Độ khó: 5.5/10 - Thông hiểu]: Cho $\Delta ABC$ vuông tại $A$ có $\widehat{B} = 30^\circ$, cạnh huyền $BC = 12\text{ cm}$. Độ dài cạnh $AC$ là:**
-> A. $6\text{ cm}$        B. $6\sqrt{3}\text{ cm}$        C. $4\text{ cm}$        D. $8\text{ cm}$
+> A. $8\text{ cm}$        B. $6\sqrt{3}\text{ cm}$        C. $4\text{ cm}$        D. $6\text{ cm}$
 
 **Câu 7.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Cho góc nhọn $\alpha$ thỏa mãn $\tan \alpha = \frac{3}{4}$. Giá trị của $\sin \alpha$ bằng:**
-> A. $\frac{3}{5}$        B. $\frac{4}{5}$        C. $\frac{3}{7}$        D. $\frac{4}{3}$
+> A. $\frac{4}{5}$        B. $\frac{3}{5}$        C. $\frac{3}{7}$        D. $\frac{4}{3}$
 
 **Câu 7.4 [Độ khó: 8.0/10 - Vận dụng khá]: Rút gọn biểu thức $M = \sin^2 25^\circ + \sin^2 65^\circ - \tan 35^\circ \cdot \tan 55^\circ$ ta được:**
-> A. $0$        B. $1$        C. $2$        D. $-1$
+> A. $2$        B. $1$        C. $0$        D. $-1$
 
 **Câu 7.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho tam giác vuông có đường cao ứng với cạnh huyền là $12\text{ cm}$ và tỉ số hai hình chiếu của hai cạnh góc vuông trên cạnh huyền là $\frac{9}{16}$. Chu vi của tam giác vuông đó là:**
 > A. $60\text{ cm}$        B. $50\text{ cm}$        C. $72\text{ cm}$        D. $48\text{ cm}$
@@ -374,7 +387,7 @@ Cho hình vuông $ABCD$. Lấy điểm $E$ tùy ý trên cạnh $BC$. Tia $AE$ c
 **Bài 7.5 [Độ khó: 9.5/10 - Chinh phục điểm 9 - 10]:**
 Cho tam giác nhọn $ABC$ có diện tích $S$. Chứng minh rằng:
 $$S = \frac{1}{2}AB \cdot AC \cdot \sin A$$
-Từ đó chứng minh rằng với mọi tam giác nhọn $ABC$, ta luôn có: $\sin A + \sin B + \sin C > 2$.
+Từ đó chứng minh rằng với mọi tam giác nhọn $ABC$, ta luôn có: $\sin A + \sin B + \sin C > 2$ *(ý này là Đọc thêm – vượt yêu cầu đề đại trà)*.
 
 > 🔒 **LƯU Ý TRA CỨU ĐÁP ÁN:** Em hãy tự giải ra vở trước, không xem đáp án trước. Khi làm xong, hãy lật xem **ĐÁP ÁN VÀ LỜI GIẢI CHI TIẾT TẠI Mục C.1** ở phần cuối tài liệu.
 
@@ -386,6 +399,9 @@ Từ đó chứng minh rằng với mọi tam giác nhọn $ABC$, ta luôn có: 
 - **Định lý đường kính và dây: ** $$\text{Đường kính } \perp \text{dây} \implies \text{đi qua trung điểm của dây}$$
 - **Liên hệ dây và khoảng cách đến tâm: ** $$\text{Hai dây bằng nhau } \iff \text{cách đều tâm. Dây lớn hơn } \iff \text{gần tâm hơn}$$
 - **Định lý Pytago trong đường tròn: ** $$R^2 = d^2 + \left(\frac{AB}{2}\right)^2 \quad (d \text{ là khoảng cách từ tâm đến dây } AB)$$
+- **Tam giác vuông:** tâm đường tròn ngoại tiếp là trung điểm cạnh huyền, $R = \frac{\text{cạnh huyền}}{2}$.
+- **Đường thẳng và đường tròn** ($d$ là khoảng cách từ tâm đến đường thẳng): $d < R$: cắt nhau; $d = R$: tiếp xúc; $d > R$: không giao nhau.
+> 📎 Xem thêm: Sổ tay bổ sung – Chủ đề 20 (vị trí tương đối của hai đường tròn, độ dài cung, hình quạt, vành khuyên).
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 8.1 [Độ khó: 4.0/10 - Nhận biết]: Cho đường tròn $(O; 5\text{ cm})$ và dây cung $AB = 8\text{ cm}$. Khoảng cách từ tâm $O$ đến dây $AB$ là:**
@@ -395,13 +411,13 @@ Từ đó chứng minh rằng với mọi tam giác nhọn $ABC$, ta luôn có: 
 > A. $10\text{ cm}$        B. $5\text{ cm}$        C. $2{,}5\text{ cm}$        D. $5\sqrt{2}\text{ cm}$
 
 **Câu 8.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Cho đường tròn $(O; 10\text{ cm})$ và dây $CD$ cách tâm $O$ một khoảng $6\text{ cm}$. Độ dài dây $CD$ là:**
-> A. $16\text{ cm}$        B. $8\text{ cm}$        C. $12\text{ cm}$        D. $14\text{ cm}$
+> A. $14\text{ cm}$        B. $8\text{ cm}$        C. $12\text{ cm}$        D. $16\text{ cm}$
 
 **Câu 8.4 [Độ khó: 8.0/10 - Vận dụng khá]: Trong $(O; 5\text{ cm})$, hai dây song song $AB = 6\text{ cm}$ và $CD = 8\text{ cm}$ nằm cùng phía đối với tâm $O$. Khoảng cách giữa hai dây là:**
-> A. $1\text{ cm}$        B. $2\text{ cm}$        C. $7\text{ cm}$        D. $0{,}5\text{ cm}$
+> A. $0{,}5\text{ cm}$        B. $2\text{ cm}$        C. $7\text{ cm}$        D. $1\text{ cm}$
 
 **Câu 8.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho đường tròn $(O; R)$ và điểm $M$ ở trong đường tròn ($OM = d < R$). Dây cung qua $M$ có độ dài nhỏ nhất là dây:**
-> A. Vuông góc với $OM$        B. Đi qua tâm $O$        C. Hợp với $OM$ góc $45^\circ$        D. Hợp với $OM$ góc $60^\circ$
+> A. Hợp với $OM$ góc $45^\circ$        B. Đi qua tâm $O$        C. Vuông góc với $OM$        D. Hợp với $OM$ góc $60^\circ$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 8.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -435,6 +451,7 @@ Cho đường tròn $(O; R)$ và hai dây cung $AB \perp CD$ tại điểm $P$ n
 ### 1. Lý thuyết cốt lõi cần nhớ
 - **Định nghĩa & Tính chất tiếp tuyến: ** $$d \text{ là tiếp tuyến tại } A \iff d \perp OA \text{ tại } A \in (O)$$
 - **Tính chất hai tiếp tuyến cắt nhau tại M: ** $$MA = MB; \quad MO \text{ là phân giác } \widehat{AMB}; \quad OM \text{ là phân giác } \widehat{AOB}; \quad OM \perp AB$$
+- **Hệ thức hay dùng:** $$MA^2 = MH \cdot MO; \quad OH \cdot OM = R^2; \quad MA^2 = MC \cdot MD\ (\text{cát tuyến } MCD)$$
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 9.1 [Độ khó: 4.0/10 - Nhận biết]: Từ điểm $M$ ngoài $(O; 4\text{ cm})$, kẻ tiếp tuyến $MA$ ($A$ là tiếp điểm). Biết $OM = 5\text{ cm}$. Độ dài $MA$ là:**
@@ -450,7 +467,7 @@ Cho đường tròn $(O; R)$ và hai dây cung $AB \perp CD$ tại điểm $P$ n
 > A. $R^2$        B. $2R^2$        C. $4R^2$        D. $\frac{R^2}{2}$
 
 **Câu 9.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho hai đường tròn $(O; 9\text{ cm})$ và $(O'; 4\text{ cm})$ tiếp xúc ngoài tại $A$. Độ dài đoạn tiếp tuyến chung ngoài $BC$ là:**
-> A. $12\text{ cm}$        B. $13\text{ cm}$        C. $6\text{ cm}$        D. $10\text{ cm}$
+> A. $10\text{ cm}$        B. $13\text{ cm}$        C. $6\text{ cm}$        D. $12\text{ cm}$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 9.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -481,7 +498,7 @@ Cho nửa đường tròn đường kính $AB = 2R$. Lấy điểm $C$ thuộc n
 
 ---
 
-# PHẦN 3: HỌC KỲ II - ĐẠI SỐ 9
+# PHẦN 3: ĐẠI SỐ – HỆ PHƯƠNG TRÌNH, PHƯƠNG TRÌNH BẬC HAI & VI-ÉT
 
 ## Chủ đề 10: Hệ hai phương trình bậc nhất hai ẩn
 
@@ -489,6 +506,7 @@ Cho nửa đường tròn đường kính $AB = 2R$. Lấy điểm $C$ thuộc n
 - **Dạng tổng quát: ** $$\begin{cases} ax + by = c \\ a'x + b'y = c' \end{cases}$$
 - **Phương pháp giải: ** $$\text{Phương pháp thế (rút 1 ẩn thế vào PT kia) hoặc Phương pháp cộng đại số}$$
 - **Kỹ thuật đặt ẩn phụ: ** $$\text{Với hệ chứa phân thức: đặt } u = \frac{1}{x - a}, \ v = \frac{1}{y - b} \text{ (ĐK mẫu khác 0)}$$
+- **Số nghiệm của hệ** ($a', b', c' \ne 0$): $\frac{a}{a'} \ne \frac{b}{b'}$: nghiệm duy nhất; $\frac{a}{a'} = \frac{b}{b'} \ne \frac{c}{c'}$: vô nghiệm; $\frac{a}{a'} = \frac{b}{b'} = \frac{c}{c'}$: vô số nghiệm.
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 10.1 [Độ khó: 4.0/10 - Nhận biết]: Cặp số nào sau đây là nghiệm của hệ phương trình $\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$?**
@@ -498,13 +516,13 @@ Cho nửa đường tròn đường kính $AB = 2R$. Lấy điểm $C$ thuộc n
 > A. $m = 1$        B. $m = -1$        C. $m = 2$        D. $m = 0$
 
 **Câu 10.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Hệ phương trình $\begin{cases} 2x - y = 3 \\ 4x - 2y = m \end{cases}$ vô số nghiệm khi $m$ bằng:**
-> A. $6$        B. $3$        C. $-6$        D. $0$
+> A. $-6$        B. $3$        C. $6$        D. $0$
 
 **Câu 10.4 [Độ khó: 8.0/10 - Vận dụng khá]: Nghiệm của hệ phương trình $\begin{cases} \frac{1}{x} + \frac{1}{y} = \frac{5}{6} \\ \frac{1}{x} - \frac{1}{y} = \frac{1}{6} \end{cases}$ là:**
-> A. $(2; 3)$        B. $(3; 2)$        C. $(-2; -3)$        D. $(1; 6)$
+> A. $(3; 2)$        B. $(2; 3)$        C. $(-2; -3)$        D. $(1; 6)$
 
 **Câu 10.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Tìm $m$ để hệ $\begin{cases} x + 2y = m + 3 \\ 2x - 3y = m \end{cases}$ có nghiệm duy nhất $(x; y)$ thỏa mãn $x + y > 0$:**
-> A. $m > -3$        B. $m < -3$        C. $m > 0$        D. $m > 1$
+> A. $m > -3$        B. $m < -\frac{5}{2}$        C. $m > -\frac{5}{2}$        D. $m > 1$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 10.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -539,22 +557,27 @@ $$\begin{cases} x + y + xy = 5 \\ x^2 + y^2 + xy = 7 \end{cases}$$
 - **Đồ thị Parabol y = ax²: ** $$\text{Đi qua } O(0; 0); \text{ trục đối xứng } Oy. \ a > 0 \text{ bề lõm lên, } a < 0 \text{ bề lõm xuống}$$
 - **Công thức nghiệm PT bậc hai: ** $$ax^2 + bx + c = 0 \ (a \ne 0), \quad \Delta = b^2 - 4ac$$
 - **Các trường hợp nghiệm: ** $$\Delta > 0 \implies x_{1,2} = \frac{-b \pm \sqrt{\Delta}}{2a}; \quad \Delta = 0 \implies x_1 = x_2 = -\frac{b}{2a}; \quad \Delta < 0 \implies \text{Vô nghiệm}$$
+- **Công thức nghiệm thu gọn** ($b = 2b'$): $$\Delta' = b'^2 - ac; \quad \Delta' > 0 \Rightarrow x_{1,2} = \frac{-b' \pm \sqrt{\Delta'}}{a}; \quad \Delta' = 0 \Rightarrow x_1 = x_2 = -\frac{b'}{a}$$
+- **Nhẩm nghiệm:** $$a + b + c = 0 \Rightarrow x_1 = 1, x_2 = \frac{c}{a}; \quad a - b + c = 0 \Rightarrow x_1 = -1, x_2 = -\frac{c}{a}$$
+- **(d) và (P):** phương trình hoành độ giao điểm có $\Delta > 0$: cắt tại 2 điểm; $\Delta = 0$: tiếp xúc; $\Delta < 0$: không giao nhau.
+> 📌 Chương trình 2018: phương trình trùng phương không có trong SGK Kết nối tri thức (đọc thêm).
+> 📎 Xem thêm: Sổ tay bổ sung – Chủ đề 17 (phương trình tích, phương trình chứa ẩn ở mẫu, bất phương trình).
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 11.1 [Độ khó: 4.0/10 - Nhận biết]: Điểm nào sau đây thuộc đồ thị hàm số $y = 3x^2$?**
-> A. $M(1; 3)$        B. $N(-1; -3)$        C. $P(2; 6)$        D. $Q(-2; -12)$
+> A. $Q(-2; -12)$        B. $N(-1; -3)$        C. $P(2; 6)$        D. $M(1; 3)$
 
 **Câu 11.2 [Độ khó: 5.5/10 - Thông hiểu]: Phương trình $x^2 - 6x + 8 = 0$ có tập nghiệm là:**
 > A. $\{2; 4\}$        B. $\{-2; -4\}$        C. $\{1; 8\}$        D. $\{-1; -8\}$
 
 **Câu 11.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Hoành độ giao điểm của parabol $(P): y = x^2$ và đường thẳng $(d): y = 2x + 3$ là:**
-> A. $x = -1$ và $x = 3$        B. $x = 1$ và $x = -3$        C. $x = 2$ và $x = 3$        D. $x = -1$ và $x = -3$
+> A. $x = 2$ và $x = 3$        B. $x = 1$ và $x = -3$        C. $x = -1$ và $x = 3$        D. $x = -1$ và $x = -3$
 
 **Câu 11.4 [Độ khó: 8.0/10 - Vận dụng khá]: Phương trình $x^2 - 2(m + 1)x + m^2 = 0$ có nghiệm kép khi $m$ bằng:**
 > A. $m = -\frac{1}{2}$        B. $m = \frac{1}{2}$        C. $m = 1$        D. $m = -1$
 
 **Câu 11.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Tìm tất cả các giá trị của $m$ để phương trình $x^2 - 2(m - 1)x + 2m - 5 = 0$ có hai nghiệm phân biệt cùng dương:**
-> A. $m > \frac{5}{2}$        B. $m > 1$        C. $1 < m < \frac{5}{2}$        D. $m < \frac{5}{2}$
+> A. $m > 1$        B. $m > \frac{5}{2}$        C. $1 < m < \frac{5}{2}$        D. $m < \frac{5}{2}$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 11.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -573,9 +596,9 @@ Giải các phương trình quy về phương trình bậc hai:
 - b) $(x^2 - 2x)^2 - 2(x^2 - 2x) - 3 = 0$
 
 **Bài 11.4 [Độ khó: 8.5/10 - Vận dụng cao thử thách]:**
-Cho parabol $(P): y = x^2$ và đường thẳng $(d): y = 2(m - 1)x - 2m + 3$.
+Cho parabol $(P): y = x^2$ và đường thẳng $(d): y = 2(m - 1)x - 2m + 5$.
 - a) Chứng minh rằng đường thẳng $(d)$ luôn cắt parabol $(P)$ tại hai điểm phân biệt với mọi giá trị của tham số $m$.
-- b) Gọi $y_1, y_2$ là tung độ các giao điểm. Tìm $m$ để $y_1 + y_2 = 10$.
+- b) Gọi $y_1, y_2$ là tung độ các giao điểm. Tìm $m$ để $y_1 + y_2 = 14$.
 
 **Bài 11.5 [Độ khó: 9.5/10 - Chinh phục điểm 9 - 10]:**
 Giải phương trình vô tỉ sau bằng phương pháp đưa về phương trình bậc hai:
@@ -585,28 +608,31 @@ $$x^2 - 3x - 2\sqrt{x^2 - 3x + 5} + 2 = 0$$
 
 ---
 
-## Chủ đề 12: Định lý Vi-ét & Ứng dụng (Trọng tâm Bài 2 đề thi)
+## Chủ đề 12: Định lý Vi-ét & Ứng dụng (Trọng tâm Bài 3 đề thi)
 
 ### 1. Lý thuyết cốt lõi cần nhớ
 - **Hệ thức Vi-ét thuận: ** $$\text{Nếu } ax^2 + bx + c = 0 \ (a \ne 0) \text{ có 2 nghiệm } x_1, x_2 \implies S = x_1 + x_2 = -\frac{b}{a}, \ P = x_1 x_2 = \frac{c}{a}$$
 - **Các biến đổi Vi-ét kinh điển: ** $$x_1^2 + x_2^2 = S^2 - 2P; \quad (x_1 - x_2)^2 = S^2 - 4P; \quad x_1^3 + x_2^3 = S(S^2 - 3P); \quad \frac{1}{x_1} + \frac{1}{x_2} = \frac{S}{P}$$
 - **Dấu của hai nghiệm: ** $$\text{Trái dấu } \iff P < 0; \quad \text{Cùng dấu } \iff \begin{cases} \Delta \ge 0 \\ P > 0 \end{cases}; \quad \text{Cùng dương } \iff \begin{cases} \Delta \ge 0 \\ P > 0 \\ S > 0 \end{cases}$$
+- **Vi-ét đảo:** $$u + v = S,\ uv = P\ (S^2 \ge 4P) \Rightarrow u, v \text{ là nghiệm của } X^2 - SX + P = 0$$
+- **Dấu nghiệm:** trái dấu $\Leftrightarrow ac < 0$; cùng dương $\Leftrightarrow \Delta \ge 0, P > 0, S > 0$; cùng âm $\Leftrightarrow \Delta \ge 0, P > 0, S < 0$.
+> 📎 Xem thêm: Sổ tay bổ sung – Chủ đề 21 (Vi-ét với biểu thức không đối xứng – dạng ý cuối Bài 3 đề mới).
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 12.1 [Độ khó: 4.0/10 - Nhận biết]: Cho phương trình $x^2 - 5x + 6 = 0$. Tổng và tích hai nghiệm $x_1 + x_2$ và $x_1 x_2$ lần lượt là:**
-> A. $5$ và $6$        B. $-5$ và $6$        C. $5$ và $-6$        D. $-5$ và $-6$
+> A. $-5$ và $-6$        B. $-5$ và $6$        C. $5$ và $-6$        D. $5$ và $6$
 
 **Câu 12.2 [Độ khó: 5.5/10 - Thông hiểu]: Cho phương trình $x^2 - 4x + 1 = 0$ có 2 nghiệm $x_1, x_2$. Giá trị $x_1^2 + x_2^2$ bằng:**
 > A. $14$        B. $16$        C. $18$        D. $12$
 
 **Câu 12.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Phương trình bậc hai nào sau đây nhận hai số $3$ và $-5$ làm nghiệm?**
-> A. $x^2 + 2x - 15 = 0$        B. $x^2 - 2x - 15 = 0$        C. $x^2 + 8x - 15 = 0$        D. $x^2 - 8x + 15 = 0$
+> A. $x^2 + 8x - 15 = 0$        B. $x^2 - 2x - 15 = 0$        C. $x^2 + 2x - 15 = 0$        D. $x^2 - 8x + 15 = 0$
 
 **Câu 12.4 [Độ khó: 8.0/10 - Vận dụng khá]: Tìm $m$ để phương trình $x^2 - 2x + m - 3 = 0$ có 2 nghiệm thỏa mãn $x_1^2 + x_2^2 = 10$:**
-> A. $m = 0$        B. $m = 3$        C. $m = -3$        D. $m = 1$
+> A. $m = 1$        B. $m = 3$        C. $m = -3$        D. $m = 0$
 
 **Câu 12.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Tìm $m$ để phương trình $x^2 - 4x + m + 1 = 0$ có 2 nghiệm thỏa mãn hệ thức không đối xứng $x_1 - 2x_2 = 1$:**
-> A. $m = 2$        B. $m = 3$        C. $m = 1$        D. $m = -2$
+> A. $m = 3$        B. $m = 2$        C. $m = 1$        D. $m = -2$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 12.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -632,33 +658,34 @@ Cho phương trình: $x^2 - (m - 1)x - m^2 + m - 1 = 0$.
 **Bài 12.5 [Độ khó: 9.5/10 - Chinh phục điểm 9 - 10]:**
 Cho phương trình $x^2 - 2(m + 1)x + m^2 + 3 = 0$.
 - Khi phương trình có hai nghiệm $x_1, x_2$, tìm giá trị lớn nhất của biểu thức:
-$$Q = \frac{x_1 + x_2}{x_1 x_2 + 1}$$
+$$Q = \frac{x_1 + x_2}{x_1 x_2 + 5}$$
 
 > 🔒 **LƯU Ý TRA CỨU ĐÁP ÁN:** Em hãy tự giải ra vở trước, không xem đáp án trước. Khi làm xong, hãy lật xem **ĐÁP ÁN VÀ LỜI GIẢI CHI TIẾT TẠI Mục D.3** ở phần cuối tài liệu.
 
 ---
 
-## Chủ đề 13: Giải bài toán bằng cách lập PT - Hệ PT (Bài 3 đề thi)
+## Chủ đề 13: Giải bài toán bằng cách lập PT - Hệ PT (Bài 4 đề thi)
 
 ### 1. Lý thuyết cốt lõi cần nhớ
 - **Quy trình 3 bước giải bài toán: ** $$\text{1) Chọn ẩn & ĐK} \to \text{2) Biểu diễn đại lượng & Lập PT/HPT} \to \text{3) Giải & Đối chiếu ĐK}$$
 - **Toán năng suất (công việc): ** $$\text{Khối lượng công việc} = \text{Năng suất} \times \text{Thời gian}; \quad \text{Làm chung: } \frac{1}{x} + \frac{1}{y} = \frac{1}{T}$$
 - **Toán chuyển động: ** $$s = v \cdot t \implies t = \frac{s}{v}; \quad v_{\text{xuôi}} = v_{\text{thực}} + v_{\text{nước}}; \quad v_{\text{ngược}} = v_{\text{thực}} - v_{\text{nước}}$$
+- **Phần trăm:** $$\text{Giá sau khi giảm } a\% = \text{Giá gốc} \times \left(1 - \frac{a}{100}\right); \quad \text{Giá sau khi tăng } a\% = \text{Giá gốc} \times \left(1 + \frac{a}{100}\right)$$
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 13.1 [Độ khó: 4.0/10 - Nhận biết]: Một chiếc áo giá niêm yết $300.000$ đồng được giảm giá $20\%$. Giá của chiếc áo sau khi giảm là:**
-> A. $240.000$ đồng        B. $260.000$ đồng        C. $280.000$ đồng        D. $250.000$ đồng
+> A. $280.000$ đồng        B. $260.000$ đồng        C. $240.000$ đồng        D. $250.000$ đồng
 
 **Câu 13.2 [Độ khó: 5.5/10 - Thông hiểu]: Một người đi xe máy $40\text{ km/h}$ lúc đi và $30\text{ km/h}$ lúc về trên quãng đường $x\text{ (km)}$. PT thời gian về nhiều hơn đi $30$ phút ($\frac{1}{2}$ giờ) là:**
-> A. $\frac{x}{30} - \frac{x}{40} = \frac{1}{2}$        B. $\frac{x}{40} - \frac{x}{30} = \frac{1}{2}$        C. $\frac{x}{30} + \frac{x}{40} = \frac{1}{2}$        D. $40x - 30x = \frac{1}{2}$
+> A. $40x - 30x = \frac{1}{2}$        B. $\frac{x}{40} - \frac{x}{30} = \frac{1}{2}$        C. $\frac{x}{30} + \frac{x}{40} = \frac{1}{2}$        D. $\frac{x}{30} - \frac{x}{40} = \frac{1}{2}$
 
 **Câu 13.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Hai đội công nhân cùng làm chung một công việc trong $12$ ngày thì xong. Gọi thời gian đội I làm một mình xong là $x$ (ngày), đội II là $y$ (ngày). Hệ thức đúng là:**
-> A. $\frac{1}{x} + \frac{1}{y} = \frac{1}{12}$        B. $x + y = 12$        C. $\frac{x + y}{2} = 12$        D. $xy = 12$
+> A. $xy = 12$        B. $x + y = 12$        C. $\frac{x + y}{2} = 12$        D. $\frac{1}{x} + \frac{1}{y} = \frac{1}{12}$
 
-**Câu 13.4 [Độ khó: 8.0/10 - Vận dụng khá]: Một mảnh vườn hình chữ nhật có chu vi $50\text{ m}$. Nếu tăng chiều rộng thêm $3\text{ m}$ và giảm chiều dài đi $2\text{ m}$ thì diện tích tăng thêm $16\text{ m}^2$. Chiều rộng ban đầu là:**
+**Câu 13.4 [Độ khó: 8.0/10 - Vận dụng khá]: Một mảnh vườn hình chữ nhật có chu vi $50\text{ m}$. Nếu tăng chiều rộng thêm $3\text{ m}$ và giảm chiều dài đi $2\text{ m}$ thì diện tích tăng thêm $19\text{ m}^2$. Chiều rộng ban đầu là:**
 > A. $10\text{ m}$        B. $15\text{ m}$        C. $12\text{ m}$        D. $8\text{ m}$
 
-**Câu 13.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Một ca nô chạy trên khúc sông xuôi dòng $40\text{ km}$ rồi ngược dòng $40\text{ km}$ hết tổng cộng $4$ giờ $10$ phút. Biết vận tốc dòng nước là $2\text{ km/h}$. Vận tốc thực của ca nô là:**
+**Câu 13.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Một ca nô chạy trên khúc sông xuôi dòng $40\text{ km}$ rồi ngược dòng $40\text{ km}$ hết tổng cộng $4$ giờ $30$ phút. Biết vận tốc dòng nước là $2\text{ km/h}$. Vận tốc thực của ca nô là:**
 > A. $20\text{ km/h}$        B. $18\text{ km/h}$        C. $22\text{ km/h}$        D. $24\text{ km/h}$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
@@ -676,7 +703,7 @@ Dạng toán năng suất làm chung làm riêng:
 
 **Bài 13.4 [Độ khó: 8.5/10 - Vận dụng cao thử thách]:**
 Dạng toán hình học thực tế:
-- Một khu vườn hình chữ nhật có chu vi $100\text{ m}$. Nếu người ta làm một lối đi xung quanh vườn rộng $1\text{ m}$ (thuộc đất trong vườn) thì phần diện tích đất còn lại để trồng trọt là $516\text{ m}^2$. Tính kích thước chiều dài và chiều rộng ban đầu của khu vườn.
+- Một khu vườn hình chữ nhật có chu vi $100\text{ m}$. Nếu người ta làm một lối đi xung quanh vườn rộng $1\text{ m}$ (thuộc đất trong vườn) thì phần diện tích đất còn lại để trồng trọt là $504\text{ m}^2$. Tính kích thước chiều dài và chiều rộng ban đầu của khu vườn.
 
 **Bài 13.5 [Độ khó: 9.5/10 - Chinh phục điểm 9 - 10]:**
 Dạng toán chuyển động ca nô trên sông:
@@ -686,7 +713,7 @@ Dạng toán chuyển động ca nô trên sông:
 
 ---
 
-# PHẦN 4: HỌC KỲ II - HÌNH HỌC 9
+# PHẦN 4: HÌNH HỌC – GÓC VỚI ĐƯỜNG TRÒN & HÌNH KHỐI
 
 ## Chủ đề 14: Góc với đường tròn (Góc ở tâm, Góc nội tiếp, Góc tạo bởi tiếp tuyến & dây)
 
@@ -695,22 +722,25 @@ Dạng toán chuyển động ca nô trên sông:
 - **Góc nội tiếp: ** $$\widehat{ACB} = \frac{1}{2}\text{sđ }\overset{\frown}{AB} = \frac{1}{2}\widehat{AOB}$$
 - **Góc chắn nửa đường tròn: ** $$\text{Góc nội tiếp chắn nửa đường tròn luôn có số đo bằng } 90^\circ$$
 - **Góc tạo bởi tia tiếp tuyến và dây cung: ** $$\widehat{BAx} = \frac{1}{2}\text{sđ }\overset{\frown}{AB} = \widehat{ACB}$$
+- **Hệ quả:** các góc nội tiếp cùng chắn một cung (hoặc chắn các cung bằng nhau) thì bằng nhau; góc nội tiếp chắn nửa đường tròn là góc vuông.
+> 📌 Chương trình 2018: "góc tạo bởi tia tiếp tuyến và dây cung" giảm tải (không có bài học riêng); chỉ cần biết để dùng.
+> 📎 Xem thêm: Sổ tay bổ sung – Chủ đề 20 (độ dài cung, diện tích hình quạt, hình viên phân, hình vành khuyên).
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 14.1 [Độ khó: 4.0/10 - Nhận biết]: Cho đường tròn $(O)$, góc nội tiếp $\widehat{ACB} = 70^\circ$. Số đo góc ở tâm $\widehat{AOB}$ cùng chắn cung $AB$ là:**
 > A. $70^\circ$        B. $140^\circ$        C. $35^\circ$        D. $90^\circ$
 
 **Câu 14.2 [Độ khó: 5.5/10 - Thông hiểu]: Cho tam giác $ABC$ nội tiếp nửa đường tròn đường kính $AB = 10\text{ cm}$ và $AC = 6\text{ cm}$. Độ dài cạnh $BC$ là:**
-> A. $8\text{ cm}$        B. $4\text{ cm}$        C. $\sqrt{136}\text{ cm}$        D. $5\text{ cm}$
+> A. $\sqrt{136}\text{ cm}$        B. $4\text{ cm}$        C. $8\text{ cm}$        D. $5\text{ cm}$
 
 **Câu 14.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Cho đường tròn $(O)$, tiếp tuyến $Ax$, dây cung $AB$. Biết $\widehat{BAx} = 40^\circ$. Số đo cung nhỏ $AB$ là:**
-> A. $80^\circ$        B. $40^\circ$        C. $20^\circ$        D. $160^\circ$
+> A. $160^\circ$        B. $40^\circ$        C. $20^\circ$        D. $80^\circ$
 
-**Câu 14.4 [Độ khó: 8.0/10 - Vận dụng khá]: Tứ giác $ABCD$ nội tiếp đường tròn $(O)$ có $\widehat{BOD} = 130^\circ$ ($O$ nằm trong tứ giác). Số đo góc $\widehat{BCD}$ là:**
+**Câu 14.4 [Độ khó: 8.0/10 - Vận dụng khá]: Tứ giác $ABCD$ nội tiếp đường tròn $(O)$ có $\widehat{BOD} = 130^\circ$ và đỉnh $A$ nằm trên cung lớn $BD$. Số đo góc $\widehat{BCD}$ là:**
 > A. $65^\circ$        B. $115^\circ$        C. $130^\circ$        D. $50^\circ$
 
 **Câu 14.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho tam giác đều $ABC$ nội tiếp $(O)$. Lấy điểm $M$ bất kỳ trên cung nhỏ $BC$. Hệ thức nào sau đây luôn đúng?**
-> A. $MA = MB + MC$        B. $MA^2 = MB^2 + MC^2$        C. $MA = 2(MB + MC)$        D. $MA = MB \cdot MC$
+> A. $MA = MB \cdot MC$        B. $MA^2 = MB^2 + MC^2$        C. $MA = 2(MB + MC)$        D. $MA = MB + MC$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 14.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -743,13 +773,16 @@ Cho đường tròn $(O)$ và một dây cung $AB$ cố định. Điểm $C$ di 
 
 ---
 
-## Chủ đề 15: TỨ GIÁC NỘI TIẾP ĐƯỜNG TRÒN (Trọng tâm Câu 4a)
+## Chủ đề 15: TỨ GIÁC NỘI TIẾP ĐƯỜNG TRÒN (Trọng tâm ý a bài hình phẳng)
 
 ### 1. Lý thuyết cốt lõi cần nhớ
 - **Định nghĩa & Tính chất: ** $$\text{Tứ giác nội tiếp } \implies \widehat{A} + \widehat{C} = 180^\circ \quad \text{và} \quad \widehat{B} + \widehat{D} = 180^\circ$$
 - **Dấu hiệu 1 (Tổng hai góc đối bằng 180°): ** $$\widehat{A} + \widehat{C} = 90^\circ + 90^\circ = 180^\circ \implies \text{Tứ giác nội tiếp}$$
 - **Dấu hiệu 2 (Hai đỉnh kề cùng nhìn 1 cạnh): ** $$\widehat{BNC} = \widehat{BMC} = 90^\circ \implies B, N, M, C \text{ thuộc đường tròn đường kính } BC$$
 - **Dấu hiệu 3 (Góc ngoài bằng góc đối trong): ** $$\widehat{xAD} = \widehat{BCD} \implies \text{Tứ giác nội tiếp}$$
+- **Tính chất:** $ABCD$ nội tiếp $\Rightarrow \widehat{BAC} = \widehat{BDC},\ \widehat{ABD} = \widehat{ACD}$ (cùng chắn một cung); hình thang nội tiếp là hình thang cân.
+> 📌 Chương trình 2018: SGK không dạy "dấu hiệu nhận biết tứ giác nội tiếp" như một bài học riêng. Ưu tiên chứng minh 4 điểm cùng thuộc một đường tròn (cùng cách đều một điểm, hoặc cùng nhìn một đoạn dưới góc vuông); hỏi giáo viên cách trình bày được chấp nhận.
+> 📎 Xem thêm: Sổ tay bổ sung – Chủ đề 24 (bốn điểm cùng thuộc đường tròn, đa giác đều, phép quay, luyện bài hình phẳng).
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 15.1 [Độ khó: 4.0/10 - Nhận biết]: Cho tứ giác $ABCD$ nội tiếp đường tròn có góc $\widehat{A} = 80^\circ$. Số đo của góc $\widehat{C}$ đối diện là:**
@@ -762,7 +795,7 @@ Cho đường tròn $(O)$ và một dây cung $AB$ cố định. Điểm $C$ di 
 > A. $ADHE$        B. $BEDC$        C. $ABDE$        D. $AHDC$
 
 **Câu 15.4 [Độ khó: 8.0/10 - Vận dụng khá]: Cho hình thang $ABCD$ nội tiếp đường tròn $(O)$. Kết luận nào sau đây luôn đúng?**
-> A. $ABCD$ là hình thang cân        B. $ABCD$ là hình thang vuông        C. $AC \perp BD$        D. $AB = CD$
+> A. $AB = CD$        B. $ABCD$ là hình thang vuông        C. $AC \perp BD$        D. $ABCD$ là hình thang cân
 
 **Câu 15.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho tam giác nhọn $ABC$ có trực tâm $H$. Đường tròn ngoại tiếp tam giác $HBC$ có bán kính $R'$ so với bán kính $R$ của đường tròn ngoại tiếp tam giác $ABC$ thì:**
 > A. $R' = R$        B. $R' = 2R$        C. $R' = \frac{R}{2}$        D. $R' = R\sqrt{2}$
@@ -803,22 +836,25 @@ Cho tam giác nhọn $ABC$ nội tiếp $(O)$, các đường cao $AD, BE, CF$ c
 - **Hình trụ (bán kính r, chiều cao h): ** $$S_{\text{xq}} = 2\pi rh; \quad S_{\text{tp}} = 2\pi rh + 2\pi r^2; \quad V = \pi r^2 h$$
 - **Hình nón (bán kính r, chiều cao h, đường sinh l): ** $$l^2 = r^2 + h^2; \quad S_{\text{xq}} = \pi rl; \quad V = \frac{1}{3}\pi r^2 h$$
 - **Hình cầu (bán kính R): ** $$S_{\text{mặt cầu}} = 4\pi R^2; \quad V_{\text{hình cầu}} = \frac{4}{3}\pi R^3$$
+- **Diện tích toàn phần hình nón:** $$S_{tp} = \pi r l + \pi r^2$$
+> 📌 Chương trình 2018: hình nón cụt là đọc thêm.
+> 📎 Xem thêm: Sổ tay bổ sung – Chủ đề 25 (hình khối ghép trong thực tiễn, đổi đơn vị, làm tròn).
 
 ### 2. Bài tập Trắc nghiệm (5 câu độ khó tăng dần - Khoanh tròn đáp án đúng)
 **Câu 16.1 [Độ khó: 4.0/10 - Nhận biết]: Một hình nón có bán kính đáy $r = 3\text{ cm}$ và chiều cao $h = 4\text{ cm}$. Độ dài đường sinh $l$ của hình nón là:**
-> A. $5\text{ cm}$        B. $7\text{ cm}$        C. $\sqrt{7}\text{ cm}$        D. $25\text{ cm}$
+> A. $25\text{ cm}$        B. $7\text{ cm}$        C. $\sqrt{7}\text{ cm}$        D. $5\text{ cm}$
 
 **Câu 16.2 [Độ khó: 5.5/10 - Thông hiểu]: Một quả bóng hình cầu có bán kính $R = 3\text{ cm}$. Thể tích của quả bóng là:**
-> A. $36\pi\text{ cm}^3$        B. $12\pi\text{ cm}^3$        C. $108\pi\text{ cm}^3$        D. $9\pi\text{ cm}^3$
+> A. $9\pi\text{ cm}^3$        B. $12\pi\text{ cm}^3$        C. $108\pi\text{ cm}^3$        D. $36\pi\text{ cm}^3$
 
 **Câu 16.3 [Độ khó: 7.0/10 - Vận dụng thấp]: Một hình trụ có chu vi đáy $C = 20\pi\text{ cm}$ và chiều cao $h = 5\text{ cm}$. Diện tích xung quanh hình trụ là:**
 > A. $100\pi\text{ cm}^2$        B. $50\pi\text{ cm}^2$        C. $200\pi\text{ cm}^2$        D. $500\pi\text{ cm}^2$
 
 **Câu 16.4 [Độ khó: 8.0/10 - Vận dụng khá]: Một chiếc cốc hình trụ có bán kính đáy $r = 4\text{ cm}$ chứa nước. Thả một viên bi kim loại hình cầu bán kính $R = 3\text{ cm}$ vào cốc (ngập hoàn toàn trong nước). Mực nước dâng thêm một đoạn là:**
-> A. $2{,}25\text{ cm}$        B. $3\text{ cm}$        C. $1{,}5\text{ cm}$        D. $2\text{ cm}$
+> A. $1{,}5\text{ cm}$        B. $3\text{ cm}$        C. $2{,}25\text{ cm}$        D. $2\text{ cm}$
 
 **Câu 16.5 [Độ khó: 9.0/10 - Vận dụng cao / Chinh phục]: Cho một hình nón đỉnh $S$. Cắt hình nón bởi một mặt phẳng song song với đáy ở chính giữa chiều cao của hình nón. Tỉ số thể tích phần hình nón cụt phía dưới so với thể tích toàn bộ hình nón ban đầu là:**
-> A. $\frac{7}{8}$        B. $\frac{1}{8}$        C. $\frac{3}{4}$        D. $\frac{1}{2}$
+> A. $\frac{3}{4}$        B. $\frac{1}{8}$        C. $\frac{7}{8}$        D. $\frac{1}{2}$
 
 ### 3. Bài tập Tự luận (5 bài độ khó tăng dần - Trình bày chi tiết ra vở)
 **Bài 16.1 [Độ khó: 4.5/10 - Cơ bản củng cố]:**
@@ -854,24 +890,24 @@ Một khúc gỗ hình trụ có bán kính đáy $R$ và chiều cao $h = 2R$. 
 
 ## I. BẢNG ĐÁP ÁN 80 CÂU TRẮC NGHIỆM (16 CHỦ ĐỀ)
 
-| Chủ đề | Câu 1 (4.0đ) | Câu 2 (5.5đ) | Câu 3 (7.0đ) | Câu 4 (8.0đ) | Câu 5 (9.0đ) |
+| Chủ đề | Câu 1 (độ khó 4.0) | Câu 2 (độ khó 5.5) | Câu 3 (độ khó 7.0) | Câu 4 (độ khó 8.0) | Câu 5 (độ khó 9.0) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| Chủ đề 1: 7 Hằng đẳng thức đáng nhớ & Kỹ năng khai triển | **B** | **A** | **A** | **B** | **A** |
-| Chủ đề 2: Phân tích đa thức thành nhân tử & Quy tắc đổi dấu phân thức | **B** | **B** | **A** | **B** | **A** |
-| Chủ đề 3: Tam giác đồng dạng & Định lý Ta-lét | **C** | **B** | **A** | **A** | **A** |
-| Chủ đề 4: Căn bậc hai, Căn bậc ba & Biến đổi biểu thức chứa căn | **B** | **A** | **A** | **C** | **A** |
-| Chủ đề 5: Rút gọn biểu thức đại số chứa căn & Câu hỏi phụ | **A** | **B** | **A** | **A** | **A** |
-| Chủ đề 6: Hàm số bậc nhất y = ax + b & Vị trí tương đối hai đường thẳng | **C** | **A** | **A** | **A** | **A** |
-| Chủ đề 7: Hệ thức lượng trong tam giác vuông & Tỉ số lượng giác | **A** | **A** | **A** | **A** | **A** |
-| Chủ đề 8: Sự xác định của đường tròn, Dây cung & Đường kính | **A** | **B** | **A** | **A** | **A** |
-| Chủ đề 9: Tiếp tuyến của đường tròn & Tính chất hai tiếp tuyến cắt nhau | **A** | **B** | **D** | **A** | **A** |
-| Chủ đề 10: Hệ hai phương trình bậc nhất hai ẩn | **A** | **A** | **A** | **A** | **A** |
-| Chủ đề 11: Hàm số y = ax² & Phương trình bậc hai một ẩn | **A** | **A** | **A** | **A** | **A** |
-| Chủ đề 12: Định lý Vi-ét & Ứng dụng | **A** | **A** | **A** | **A** | **A** |
-| Chủ đề 13: Giải bài toán bằng cách lập PT - Hệ PT | **A** | **A** | **A** | **A** | **A** |
-| Chủ đề 14: Góc với đường tròn | **B** | **A** | **A** | **B** | **A** |
-| Chủ đề 15: TỨ GIÁC NỘI TIẾP ĐƯỜNG TRÒN | **B** | **C** | **B** | **A** | **A** |
-| Chủ đề 16: Hình trụ, Hình nón, Hình cầu | **A** | **A** | **A** | **A** | **A** |
+| Chủ đề 1: 7 Hằng đẳng thức đáng nhớ & Kỹ năng khai triển | **B** | **C** | **C** | **B** | **D** |
+| Chủ đề 2: Phân tích đa thức thành nhân tử & Quy tắc đổi dấu phân thức | **D** | **B** | **A** | **B** | **A** |
+| Chủ đề 3: Tam giác đồng dạng & Định lý Ta-lét | **C** | **D** | **B** | **A** | **C** |
+| Chủ đề 4: Căn bậc hai, Căn bậc ba & Biến đổi biểu thức chứa căn | **B** | **A** | **B** | **C** | **A** |
+| Chủ đề 5: Rút gọn biểu thức đại số chứa căn & Câu hỏi phụ | **C** | **B** | **A** | **C** | **B** |
+| Chủ đề 6: Hàm số bậc nhất y = ax + b & Vị trí tương đối hai đường thẳng | **C** | **C** | **A** | **D** | **D** |
+| Chủ đề 7: Hệ thức lượng trong tam giác vuông & Tỉ số lượng giác | **A** | **D** | **B** | **C** | **A** |
+| Chủ đề 8: Sự xác định của đường tròn, Dây cung & Đường kính | **A** | **B** | **D** | **D** | **C** |
+| Chủ đề 9: Tiếp tuyến của đường tròn & Tính chất hai tiếp tuyến cắt nhau | **A** | **B** | **D** | **A** | **D** |
+| Chủ đề 10: Hệ hai phương trình bậc nhất hai ẩn | **A** | **A** | **C** | **B** | **C** |
+| Chủ đề 11: Hàm số y = ax² & Phương trình bậc hai một ẩn | **D** | **A** | **C** | **A** | **B** |
+| Chủ đề 12: Định lý Vi-ét & Ứng dụng | **D** | **A** | **C** | **D** | **B** |
+| Chủ đề 13: Giải bài toán bằng cách lập PT - Hệ PT | **C** | **D** | **D** | **A** | **B** |
+| Chủ đề 14: Góc với đường tròn | **B** | **C** | **D** | **B** | **D** |
+| Chủ đề 15: TỨ GIÁC NỘI TIẾP ĐƯỜNG TRÒN | **B** | **C** | **B** | **D** | **A** |
+| Chủ đề 16: Hình trụ, Hình nón, Hình cầu | **D** | **D** | **A** | **C** | **C** |
 
 ---
 
@@ -989,7 +1025,10 @@ $$\frac{OA}{OC} = \frac{OB}{OD} \implies OA \cdot OD = OB \cdot OC \quad (\text{
 
 **Bài 3.5:**
 *Lời giải:*
-- **a)** Ta có $\widehat{ADE} = \widehat{ABC}$ và $\widehat{ADF} = \widehat{ACB}$ (từ các tứ giác nội tiếp). Lại có $AD \perp BC$ nên góc $\widehat{HDE} = 90^\circ - \widehat{ADE} = 90^\circ - \widehat{B}$. Tương tự $\widehat{HDF} = 90^\circ - \widehat{C}$. Vì $\Delta HBD \sim \Delta HCD \dots$ dễ dàng chỉ ra $DA$ là phân giác của góc $\widehat{EDF}$. Tương tự $EB, FC$ là phân giác. Vậy $H$ là giao điểm 3 đường phân giác của $\Delta DEF$, tức tâm đường tròn nội tiếp $\Delta DEF$ (đpcm).
+- **a)** Tứ giác $BDHF$ có $\widehat{BDH} + \widehat{BFH} = 90^\circ + 90^\circ = 180^\circ$ nên nội tiếp $\Rightarrow \widehat{HDF} = \widehat{HBF}$ (cùng chắn cung $HF$).
+  Tứ giác $CDHE$ có $\widehat{CDH} + \widehat{CEH} = 180^\circ$ nên nội tiếp $\Rightarrow \widehat{HDE} = \widehat{HCE}$ (cùng chắn cung $HE$).
+  Mà $\widehat{HBF} = \widehat{ABE} = 90^\circ - \widehat{BAC}$ và $\widehat{HCE} = \widehat{ACF} = 90^\circ - \widehat{BAC}$ nên $\widehat{HDF} = \widehat{HDE}$, tức $DH$ là tia phân giác của $\widehat{EDF}$.
+  Chứng minh tương tự, $EH$ là tia phân giác của $\widehat{DEF}$. Vậy $H$ là giao điểm hai đường phân giác trong của $\Delta DEF$, do đó $H$ là tâm đường tròn nội tiếp $\Delta DEF$ (đpcm).
 - **b)** Nhận xét tỉ số đường cao bằng tỉ số diện tích có chung đáy $BC$:
   $$\frac{HD}{AD} = \frac{S_{HBC}}{S_{ABC}}, \quad \frac{HE}{BE} = \frac{S_{HAC}}{S_{ABC}}, \quad \frac{HF}{CF} = \frac{S_{HAB}}{S_{ABC}}$$
   Cộng vế theo vế: $\frac{HD}{AD} + \frac{HE}{BE} + \frac{HF}{CF} = \frac{S_{HBC} + S_{HAC} + S_{HAB}}{S_{ABC}} = \frac{S_{ABC}}{S_{ABC}} = 1$ (đpcm).
@@ -1063,7 +1102,7 @@ Với $t = 3 \implies \sqrt{(x + 3)(6 - x)} = \frac{3^2 - 9}{2} = 0 \implies (x 
   Để $Q < 1 \iff \frac{5}{\sqrt{x} - 2} < 0 \iff \sqrt{x} - 2 < 0 \iff \sqrt{x} < 2 \iff 0 \le x < 4$.
   **Kết luận:** $0 \le x < 4$.
 - **b)** Ta viết: $Q = \frac{\sqrt{x} - 2 + 5}{\sqrt{x} - 2} = 1 + \frac{5}{\sqrt{x} - 2}$.
-  Để $Q \in \mathbb{Z}$ với $x \in \mathbb{Z}$ thì $\sqrt{x} - 2$ phải là ước của $5$.
+  Với $x \in \mathbb{Z}$: nếu $x$ không là số chính phương thì $\sqrt{x}$ là số vô tỉ, khi đó $\frac{5}{\sqrt{x} - 2}$ vô tỉ nên $Q \notin \mathbb{Z}$. Do đó $x$ là số chính phương, $\sqrt{x} \in \mathbb{N}$, và $\sqrt{x} - 2$ phải là ước của $5$.
   Ước của $5$ là $\{\pm 1; \pm 5\}$.
   + $\sqrt{x} - 2 = 1 \implies \sqrt{x} = 3 \implies x = 9$ (TM ĐK).
   + $\sqrt{x} - 2 = -1 \implies \sqrt{x} = 1 \implies x = 1$ (TM ĐK).
@@ -1074,7 +1113,7 @@ Với $t = 3 \implies \sqrt{(x + 3)(6 - x)} = \frac{3^2 - 9}{2} = 0 \implies (x 
 **Bài 5.4:**
 *Lời giải:*
 - **a)** Chia tử cho mẫu: $M = \frac{\sqrt{x}(\sqrt{x}+1) - 2(\sqrt{x}+1) + 3}{\sqrt{x}+1} = \sqrt{x} - 2 + \frac{3}{\sqrt{x}+1}$.
-  Với $x$ hữu tỉ, đặt $\sqrt{x} = \frac{a}{b}$ thì $\sqrt{x} + 1$ là ước số nguyên $\implies \sqrt{x} \in \mathbb{N} \implies \sqrt{x} + 1 \in \text{Ư}(3) = \{1; 3\}$.
+  Với $x \in \mathbb{Z}$, $x \ge 0$: nếu $x$ không là số chính phương thì $\sqrt{x}$ vô tỉ, khi đó $\frac{3}{\sqrt{x} + 1}$ vô tỉ nên $M \notin \mathbb{Z}$. Do đó $\sqrt{x} \in \mathbb{N}$ và $M \in \mathbb{Z} \Leftrightarrow \sqrt{x} + 1 \in \text{Ư}(3)$; vì $\sqrt{x} + 1 \ge 1$ nên $\sqrt{x} + 1 \in \{1; 3\}$.
   + $\sqrt{x} + 1 = 1 \implies \sqrt{x} = 0 \implies x = 0$ ($M = 1 \in \mathbb{Z}$).
   + $\sqrt{x} + 1 = 3 \implies \sqrt{x} = 2 \implies x = 4$ ($M = 1 \in \mathbb{Z}$).
   **Kết luận:** $x \in \{0; 4\}$.
@@ -1085,10 +1124,10 @@ Với $t = 3 \implies \sqrt{(x + 3)(6 - x)} = \frac{3^2 - 9}{2} = 0 \implies (x 
 
 **Bài 5.5:**
 *Lời giải:*
-Vì $x > 0$ nên $0 < P = \frac{\sqrt{x}}{\sqrt{x}+2} < 1$.
-Áp dụng bất đẳng thức Cô-si cho hai số dương:
-$$K = P + \frac{1}{P} = P + \frac{1}{4P} + \frac{3}{4P} \ge 2\sqrt{P \cdot \frac{1}{4P}} + \frac{3}{4P} = 1 + \frac{3}{4P}$$.
-Vì $P < 1$ nên giá trị của $K$ không đạt cực tiểu tại điểm rơi biên khi $x \to \infty$, mà ta khảo sát hàm: $K = P + \frac{1}{P} \ge 2$ khi $P = 1$. Vì $P < 1$ nên khi $x$ càng lớn thì $P \to 1$ thì $K \to 2$. Hoặc nếu $x \ge 1 \implies P \ge \frac{1}{3} \implies K \ge \frac{1}{3} + 3 = \frac{10}{3}$.
+Với $x > 0$ thì $P > 0$. Áp dụng bất đẳng thức Cô-si cho hai số dương $\frac{1}{P}$ và $4P$:
+$$K = \frac{1}{P} + 4P \ge 2\sqrt{\frac{1}{P} \cdot 4P} = 4.$$
+Dấu "=" xảy ra $\Leftrightarrow \frac{1}{P} = 4P \Leftrightarrow P = \frac{1}{2} \Leftrightarrow 2\sqrt{x} = \sqrt{x} + 2 \Leftrightarrow \sqrt{x} = 2 \Leftrightarrow x = 4$ (thỏa mãn $x > 0$).
+**Kết luận:** $K_{\min} = 4$ khi $x = 4$.
 
 ---
 
@@ -1167,18 +1206,22 @@ $$AC = BC \cdot \sin B = 4 \cdot \sin 65^\circ \approx 4 \cdot 0{,}9063 \approx 
 
 **Bài 7.4:**
 *Lời giải:*
-Kẻ $Ax \perp AE$ cắt đường thẳng $CD$ tại điểm $K$. Xét $\Delta ABK$ vuông tại $B$ và $\Delta ADF$ vuông tại $D$:
-Ta có $\widehat{KAD} = \widehat{EAB}$ (cùng phụ góc $\widehat{DAE}$) và $AD = AB$ (cạnh hình vuông).
-Suy ra $\Delta ABK = \Delta ADK \dots$ hay trong $\Delta AKF$ vuông tại $A$ có đường cao $AD = AB$.
-Áp dụng hệ thức lượng nghịch đảo bình phương đường cao cho $\Delta AKF$ vuông tại $A$:
-$$\frac{1}{AD^2} = \frac{1}{AK^2} + \frac{1}{AF^2}$$
-Mà $AK = AE$ (do $\Delta ABK \cong \Delta ADK$), $AD = AB$.
-Suy ra: $\frac{1}{AB^2} = \frac{1}{AE^2} + \frac{1}{AF^2}$ (đpcm).
+Qua $A$ kẻ đường thẳng vuông góc với $AE$, cắt đường thẳng $CD$ tại $K$.
+Xét $\Delta ABE$ và $\Delta ADK$ có: $\widehat{ABE} = \widehat{ADK} = 90^\circ$; $AB = AD$ (cạnh hình vuông); $\widehat{BAE} = \widehat{DAK}$ (cùng phụ với $\widehat{DAE}$).
+$\Rightarrow \Delta ABE = \Delta ADK$ (g.c.g) $\Rightarrow AE = AK$.
+Trong $\Delta AKF$ vuông tại $A$ có $AD \perp KF$ nên $\frac{1}{AD^2} = \frac{1}{AK^2} + \frac{1}{AF^2}$.
+Thay $AD = AB$, $AK = AE$: $\frac{1}{AB^2} = \frac{1}{AE^2} + \frac{1}{AF^2}$ (đpcm).
 
 **Bài 7.5:**
 *Lời giải:*
 - **Ý 1:** Kẻ đường cao $BH \perp AC$. Ta có $BH = AB \cdot \sin A$. Khi đó: $S = \frac{1}{2} AC \cdot BH = \frac{1}{2} AB \cdot AC \cdot \sin A$ (đpcm).
-- **Ý 2:** Tương tự, $S = \frac{1}{2} BC \cdot BA \cdot \sin B = \frac{1}{2} CA \cdot CB \cdot \sin C$. Áp dụng bất đẳng thức tam giác và đánh giá tổng diện tích đối với bán kính đường tròn ngoại tiếp $R$, ta có $\sin A + \sin B + \sin C = \frac{a + b + c}{2R}$. Vì tam giác nhọn nên trực tâm và tâm ngoại tiếp nằm trong tam giác, dễ dàng chứng minh $\frac{a + b + c}{2R} > 2$ (đpcm).
+- **Ý 2 (Đọc thêm):** Gọi $AD, BE, CF$ là các đường cao. Vì tam giác nhọn nên $D, E, F$ nằm trong các cạnh.
+  Trong $\Delta AEB$ vuông tại $E$: $AE = AB\cos A$; trong $\Delta AFC$ vuông tại $F$: $AF = AC\cos A$.
+  Theo ý 1: $S_{AEF} = \frac{1}{2}AE \cdot AF \cdot \sin A = \cos^2 A \cdot \frac{1}{2}AB \cdot AC \cdot \sin A = S\cos^2 A$.
+  Tương tự $S_{BFD} = S\cos^2 B$, $S_{CDE} = S\cos^2 C$. Vì $S_{AEF} + S_{BFD} + S_{CDE} = S - S_{DEF} < S$ nên
+  $$\cos^2 A + \cos^2 B + \cos^2 C < 1 \Leftrightarrow \sin^2 A + \sin^2 B + \sin^2 C > 2.$$
+  Mà $0 < \sin A, \sin B, \sin C < 1$ nên $\sin A > \sin^2 A$, $\sin B > \sin^2 B$, $\sin C > \sin^2 C$. Do đó $\sin A + \sin B + \sin C > 2$ (đpcm).
+- **Áp dụng (mức thi):** Tam giác $ABC$ có $AB = 6\text{ cm}$, $AC = 8\text{ cm}$, $\widehat{A} = 60^\circ$ thì $S = \frac{1}{2} \cdot 6 \cdot 8 \cdot \sin 60^\circ = 12\sqrt{3}\text{ (cm}^2)$.
 
 ---
 
@@ -1216,9 +1259,12 @@ $$\implies \frac{AB}{AD} = \frac{AH}{AC} \implies AB \cdot AC = AH \cdot AD = 2R
 
 **Bài 8.5:**
 *Lời giải:*
-Kẻ đường kính $AA'$, nối $A'B$ và $A'C$. Vì $\widehat{ABA'} = 90^\circ \implies A'B^2 + AB^2 = AA'^2 = (2R)^2 = 4R^2$.
-Kẻ $OK \perp CD$ tại $K \implies K$ là trung điểm $CD$. Tứ giác $OKPH$ là hình chữ nhật $\dots$
-Dễ dàng chứng minh tứ giác $A'BCD$ là hình thang cân hoặc sử dụng công thức hình chiếu, suy ra $PA^2 + PB^2 + PC^2 + PD^2 = 4R^2$ (đpcm).
+Vì $AB \perp CD$ tại $P$ nên $PA^2 + PC^2 = AC^2$ và $PB^2 + PD^2 = BD^2$.
+Kẻ đường kính $AA'$. Ta có $\widehat{ABA'} = 90^\circ$ (góc nội tiếp chắn nửa đường tròn) $\Rightarrow A'B \perp AB$. Mà $CD \perp AB$ nên $A'B \parallel CD$.
+Hình thang nội tiếp là hình thang cân, nên tứ giác có các đỉnh $A', B, C, D$ là hình thang cân, suy ra $BD = A'C$.
+Lại có $\widehat{ACA'} = 90^\circ \Rightarrow AC^2 + A'C^2 = AA'^2 = 4R^2$.
+Vậy $PA^2 + PB^2 + PC^2 + PD^2 = AC^2 + BD^2 = AC^2 + A'C^2 = 4R^2$ (đpcm).
+*(Nếu $AB$ là đường kính thì $A' \equiv B$; khi đó $AB$ là trung trực của $CD$ nên $BD = BC = A'C$, kết quả vẫn đúng.)*
 
 ---
 
@@ -1245,10 +1291,12 @@ Dễ dàng chứng minh tứ giác $A'BCD$ là hình thang cân hoặc sử dụ
 
 **Bài 9.5:**
 *Lời giải:*
-Vì $AM // BN$ (cùng $\perp AB$), theo hệ quả định lý Ta-lét trong $\Delta BMN$ có $IK // BN$ và trong $\Delta AMN$:
-$$\frac{IK}{BN} = \frac{AI}{AN} = \frac{AM}{AM + BN}$$
-Lại xét tam giác có $CK // AM // BN$, áp dụng Ta-lét chứng minh được $\frac{IK}{AM} = \frac{CI}{AM} \implies IK = CI = \frac{1}{2}CK$.
-Vậy $I$ là trung điểm của đoạn thẳng $CK$ (đpcm).
+Vì $AM \perp AB$, $BN \perp AB$ nên $AM \parallel BN$. Theo tính chất hai tiếp tuyến cắt nhau: $MC = MA$, $NC = NB$.
+Do $AM \parallel BN$, theo hệ quả định lý Ta-lét: $\frac{IN}{IA} = \frac{BN}{AM}$ và $\frac{IB}{IM} = \frac{BN}{AM}$.
+Suy ra $\frac{NI}{IA} = \frac{BN}{AM} = \frac{NC}{CM}$. Trong $\Delta NAM$, theo định lý Ta-lét đảo: $CI \parallel AM$, mà $AM \perp AB$ nên $CK \perp AB$ và $CK \parallel AM$.
+- Trong $\Delta NAM$ có $CI \parallel AM$: $\frac{CI}{AM} = \frac{NC}{NM} = \frac{BN}{AM + BN}$.
+- Trong $\Delta BAM$ có $IK \parallel AM$: $\frac{IK}{AM} = \frac{BI}{BM} = \frac{BN}{AM + BN}$ (vì $\frac{IB}{IM} = \frac{BN}{AM}$).
+Suy ra $CI = IK$, tức $I$ là trung điểm của $CK$ (đpcm).
 
 ---
 
@@ -1281,8 +1329,8 @@ $$\begin{cases} \frac{1}{x - 1} = 2 \implies x - 1 = \frac{1}{2} \implies x = \f
 Điều kiện có nghiệm duy nhất: $1 \cdot 1 - m \cdot m \ne 0 \iff m \ne \pm 1$.
 Giải hệ bằng định thức hoặc thế: $x = 1 - my \implies m(1 - my) + y = m^2 \iff y(1 - m^2) = m^2 - m = m(m - 1)$.
 Suy ra: $y = \frac{-m(1 - m)}{(1 - m)(1 + m)} = -\frac{m}{m + 1} = -1 + \frac{1}{m + 1}$.
-$x = 1 - my = 1 - m\left(-\frac{m}{m+1}\right) = \frac{m+1 + m^2}{m+1} = m - 1 + \frac{2}{m + 1}$.
-Để $x, y \in \mathbb{Z}$ thì $m + 1$ phải là ước của $1$ (và ước của 2) $\implies m + 1 \in \{\pm 1\}$.
+$x = 1 - my = 1 - m\left(-\frac{m}{m+1}\right) = \frac{m^2 + m + 1}{m + 1} = m + \frac{1}{m + 1}$.
+Với $m \in \mathbb{Z}$, để $x, y \in \mathbb{Z}$ thì $\frac{1}{m + 1} \in \mathbb{Z} \Leftrightarrow m + 1 \in \{\pm 1\}$.
 + $m + 1 = 1 \implies m = 0$ (thỏa mãn $m \ne \pm 1$).
 + $m + 1 = -1 \implies m = -2$ (thỏa mãn $m \ne \pm 1$).
 **Kết luận:** $m \in \{0; -2\}$.
@@ -1323,12 +1371,12 @@ $S^2 + S - 12 = 0 \implies S = 3$ hoặc $S = -4$.
 
 **Bài 11.4:**
 *Lời giải:*
-- **a)** Phương trình hoành độ giao điểm: $x^2 - 2(m - 1)x + 2m - 3 = 0$.
-  $$\Delta' = [-(m - 1)]^2 - (2m - 3) = m^2 - 2m + 1 - 2m + 3 = m^2 - 4m + 4 = (m - 2)^2$$
-  Để luôn cắt tại 2 điểm phân biệt thì $\Delta' > 0 \iff (m - 2)^2 > 0 \iff m \ne 2$.
-- **b)** Ta có $y_1 = 2(m - 1)x_1 - 2m + 3$ và $y_2 = 2(m - 1)x_2 - 2m + 3$.
-  $y_1 + y_2 = 2(m - 1)(x_1 + x_2) - 4m + 6 = 2(m - 1)[2(m - 1)] - 4m + 6 = 4(m - 1)^2 - 4m + 6$.
-  Theo đề: $4m^2 - 12m + 10 = 10 \iff 4m^2 - 12m = 0 \iff 4m(m - 3) = 0 \implies m = 0$ hoặc $m = 3$ (đều thỏa $m \ne 2$).
+- **a)** Phương trình hoành độ giao điểm: $x^2 - 2(m - 1)x + 2m - 5 = 0$ (1).
+  $$\Delta' = (m - 1)^2 - (2m - 5) = m^2 - 4m + 6 = (m - 2)^2 + 2 > 0 \ \forall m$$
+  nên (1) luôn có hai nghiệm phân biệt, tức $(d)$ luôn cắt $(P)$ tại hai điểm phân biệt với mọi $m$ (đpcm).
+- **b)** Theo Vi-ét: $x_1 + x_2 = 2(m - 1)$, $x_1x_2 = 2m - 5$. Vì giao điểm thuộc $(P)$ nên $y_1 = x_1^2,\ y_2 = x_2^2$:
+  $$y_1 + y_2 = (x_1 + x_2)^2 - 2x_1x_2 = 4(m - 1)^2 - 2(2m - 5) = 4m^2 - 12m + 14$$
+  $y_1 + y_2 = 14 \Leftrightarrow 4m(m - 3) = 0 \Leftrightarrow m = 0$ hoặc $m = 3$.
   **Kết luận:** $m \in \{0; 3\}$.
 
 **Bài 11.5:**
@@ -1379,15 +1427,12 @@ Theo đề bài: $21 - 4m = 9 \iff 4m = 12 \iff m = 3$ (thỏa mãn $m \le 21/4$
 
 **Bài 12.5:**
 *Lời giải:*
-Điều kiện có nghiệm: $\Delta' = (m + 1)^2 - (m^2 + 3) = 2m - 2 \ge 0 \iff m \ge 1$.
+Điều kiện có nghiệm: $\Delta' = (m + 1)^2 - (m^2 + 3) = 2m - 2 \ge 0 \Leftrightarrow m \ge 1$.
 Theo Vi-ét: $x_1 + x_2 = 2(m + 1)$ và $x_1 x_2 = m^2 + 3$.
-Biểu thức: $Q = \frac{2(m + 1)}{(m^2 + 3) + 1} = \frac{2m + 2}{m^2 + 4}$.
-Xét hiệu: $1 - Q = 1 - \frac{2m + 2}{m^2 + 4} = \frac{m^2 - 2m + 2}{m^2 + 4} = \frac{(m - 1)^2 + 1}{m^2 + 4} > 0 \implies Q < 1$.
-Khi $m = 1 \implies Q = \frac{2(1) + 2}{1^2 + 4} = \frac{4}{5}$.
-Ta chứng minh $Q \le \frac{4}{5}$ với mọi $m \ge 1$:
-$$\frac{4}{5} - \frac{2m + 2}{m^2 + 4} = \frac{4m^2 + 16 - 10m - 10}{5(m^2 + 4)} = \frac{4m^2 - 10m + 6}{5(m^2 + 4)} = \frac{(m - 1)(4m - 6)}{5(m^2 + 4)}$$
-Để tìm GTLN trên $[1; +\infty)$, đạo hàm hoặc biến đổi cho thấy $Q_{\max} = \frac{\sqrt{5}-1}{2}$ tại $m = \sqrt{5}-1 < 1$ loại, nên trên $m \ge 1$ thì $Q$ nghịch biến khi $m \ge 1$, đạt GTLN tại biên $m = 1$ với $Q = \frac{4}{5}$.
-**Kết luận:** Giá trị lớn nhất của $Q$ là $\frac{4}{5}$, đạt được khi $m = 1$.
+Biểu thức: $Q = \frac{2(m + 1)}{(m^2 + 3) + 5} = \frac{2(m + 1)}{m^2 + 8}$.
+Xét hiệu: $\frac{1}{2} - Q = \frac{m^2 + 8 - 4m - 4}{2(m^2 + 8)} = \frac{(m - 2)^2}{2(m^2 + 8)} \ge 0 \Rightarrow Q \le \frac{1}{2}$.
+Dấu "=" xảy ra khi $m = 2$ (thỏa mãn $m \ge 1$).
+**Kết luận:** Giá trị lớn nhất của $Q$ là $\frac{1}{2}$, đạt được khi $m = 2$.
 
 ---
 
@@ -1427,20 +1472,16 @@ Nửa chu vi khu vườn: $100 : 2 = 50\text{ m}$. Gọi chiều rộng ban đ�
 Chiều dài ban đầu là: $50 - x$ (m).
 Khi làm lối đi rộng $1\text{ m}$ xung quanh, chiều rộng phần đất còn lại là: $x - 2$ (m).
 Chiều dài phần đất còn lại là: $(50 - x) - 2 = 48 - x$ (m).
-Diện tích phần đất trồng trọt là: $(x - 2)(48 - x) = 516$.
-$$\iff 48x - x^2 - 96 + 2x = 516 \iff x^2 - 50x + 612 = 0$$
-Giải phương trình: $\Delta' = 25^2 - 612 = 625 - 612 = 13$.
-Nghiệm: $x_1 = 25 - \sqrt{13} \approx 21{,}39\text{ m}$ (thỏa mãn), $x_2 = 25 + \sqrt{13} > 25$ (loại vì chiều rộng nhỏ hơn chiều dài).
-Chiều dài ban đầu là: $50 - (25 - \sqrt{13}) = 25 + \sqrt{13}\text{ m}$.
-*(Nếu đề bài số đẹp chu vi 100m, diện tích còn lại 504m² thì $x = 20, y = 30$).*
-**Kết luận:** Kích thước ban đầu là chiều rộng $25 - \sqrt{13}\text{ m}$ và chiều dài $25 + \sqrt{13}\text{ m}$.
+Diện tích phần đất trồng trọt là: $(x - 2)(48 - x) = 504 \Leftrightarrow x^2 - 50x + 600 = 0 \Leftrightarrow (x - 20)(x - 30) = 0$.
+$x = 20$ (thỏa mãn); $x = 30$ (loại vì $x < 25$). Chiều dài: $50 - 20 = 30$ (m).
+**Kết luận:** Khu vườn có chiều rộng $20\text{ m}$, chiều dài $30\text{ m}$.
 
 **Bài 13.5:**
 *Lời giải:*
 Đổi $2$ giờ $15$ phút = $\frac{9}{4}$ giờ; $3$ giờ $30$ phút = $\frac{7}{2}$ giờ.
 Gọi vận tốc ca nô xuôi dòng là $x$ (km/h), ngược dòng là $y$ (km/h) ($x > y > 0$).
 Theo đề bài ta có hệ phương trình:
-$$\begin{cases} \frac{45}{x} + \frac{18}{y} = \frac{9}{4} \\ \frac{60}{x} + \frac{36}{y} = \frac{7}{2} \end{cases} \iff \begin{cases} \frac{5}{x} + \frac{2}{y} = \frac{1}{4} \\ \frac{60}{x} + \frac{36}{y} = \frac{7}{2} \end{cases} \iff \begin{cases} \frac{1}{x} = \frac{1}{30} \implies x = 30 \\ \frac{1}{y} = \frac{1}{24} \implies y = 24 \end{cases}$$
+Đặt $u = \frac{1}{x},\ v = \frac{1}{y}$: $\begin{cases} 45u + 18v = \frac{9}{4} \\ 60u + 36v = \frac{7}{2} \end{cases} \Leftrightarrow \begin{cases} 90u + 36v = \frac{9}{2} \\ 60u + 36v = \frac{7}{2} \end{cases} \Leftrightarrow \begin{cases} 30u = 1 \\ 45u + 18v = \frac{9}{4} \end{cases} \Leftrightarrow \begin{cases} u = \frac{1}{30} \\ v = \frac{1}{24} \end{cases} \Rightarrow \begin{cases} x = 30 \\ y = 24 \end{cases}$ (thỏa mãn).
 Vì vận tốc xuôi dòng là $30\text{ km/h}$, ngược dòng là $24\text{ km/h}$ nên:
 - Vận tốc riêng của ca nô: $v_{\text{thực}} = \frac{x + y}{2} = \frac{30 + 24}{2} = 27\text{ km/h}$.
 - Vận tốc dòng nước: $v_{\text{nước}} = \frac{x - y}{2} = \frac{30 - 24}{2} = 3\text{ km/h}$.
@@ -1461,7 +1502,7 @@ Vì vận tốc xuôi dòng là $30\text{ km/h}$, ngược dòng là $24\text{ k
 *Lời giải:*
 - **a)** Tứ giác $BEDC$ có $\widehat{BEC} = \widehat{BDC} = 90^\circ$ cùng nhìn cạnh $BC \implies$ tứ giác $BEDC$ nội tiếp đường tròn đường kính $BC$.
   Suy ra góc ngoài tại đỉnh $D$ bằng góc đối trong: $\widehat{ADE} = \widehat{ABC}$ (đpcm).
-- **b)** Kẻ tia tiếp tuyến $Ax$ của $(O)$ tại $A$ thuộc nửa mặt phẳng chứa $C$. Khi đó $\widehat{xAB} = \widehat{ACB}$ (góc tạo bởi tiếp tuyến và dây cung bằng góc nội tiếp).
+- **b)** Kẻ tia tiếp tuyến $Ax$ của $(O)$ tại $A$ sao cho $x$ và $C$ nằm khác phía đối với đường thẳng $AB$. Khi đó $\widehat{xAB} = \widehat{ACB}$ (góc tạo bởi tiếp tuyến và dây cung bằng góc nội tiếp).
   Mà từ tứ giác nội tiếp $BEDC$ ta có $\widehat{AED} = \widehat{ACB}$.
   Suy ra $\widehat{xAB} = \widehat{AED} \implies Ax // DE$ (hai góc so le trong bằng nhau).
   Mà $OA \perp Ax$ (tính chất tiếp tuyến) $\implies OA \perp DE$ (đpcm).
@@ -1479,15 +1520,16 @@ Vì vận tốc xuôi dòng là $30\text{ km/h}$, ngược dòng là $24\text{ k
 - **b)** Xét $\Delta ABD$ và $\Delta CBM$: Có $AB = BC$ ($\Delta ABC$ đều), $BD = BM$ ($\Delta MBD$ đều) và $\widehat{ABD} = \widehat{CBM}$ (cùng bằng $60^\circ - \widehat{DBC}$). Suy ra $\Delta ABD = \Delta CBM$ (c-g-c) $\implies AD = MC$.
   Khi đó: $MA = MD + DA = MB + MC$ (đpcm).
 - **c)** Ta có $MA^2 = (MB + MC)^2 = MB^2 + MC^2 + 2MB \cdot MC$.
-  Áp dụng định lý cosin trong $\Delta MBC$ có $\widehat{BMC} = 120^\circ$: $BC^2 = MB^2 + MC^2 - 2MB \cdot MC \cos 120^\circ = MB^2 + MC^2 + MB \cdot MC$.
+  Kẻ $BK \perp CM$ ($K$ thuộc tia đối của tia $MC$ vì $\widehat{BMC} = 180^\circ - \widehat{BAC} = 120^\circ$ là góc tù). Khi đó $\widehat{BMK} = 60^\circ$, $MK = MB\cos 60^\circ = \frac{MB}{2}$, $BK = MB\sin 60^\circ = \frac{\sqrt{3}}{2}MB$.
+  Trong $\Delta BKC$ vuông tại $K$: $BC^2 = BK^2 + KC^2 = \frac{3}{4}MB^2 + \left(MC + \frac{MB}{2}\right)^2 = MB^2 + MC^2 + MB \cdot MC$.
   Suy ra $MA^2 + MB^2 + MC^2 = 2(MB^2 + MC^2 + MB \cdot MC) = 2BC^2 = 2(R\sqrt{3})^2 = 6R^2$ (không đổi) (đpcm).
 
 **Bài 14.5:**
 *Lời giải:*
 - **a)** Tia $CD$ là phân giác của $\widehat{ACB} \implies \widehat{ACD} = \widehat{BCD} \implies$ cung $AD =$ cung $BD \implies D$ là điểm chính giữa của cung nhỏ $AB$. Vì dây cung $AB$ cố định nên điểm chính giữa $D$ của cung nhỏ $AB$ là điểm cố định (đpcm).
-- **b)** Chu vi $\Delta ABC$ bằng $AB + AC + BC$. Vì $AB$ cố định nên chu vi lớn nhất $\iff AC + BC$ lớn nhất.
-  Trên tia đối của tia $CB$, lấy điểm $E$ sao cho $CE = CA$. Tam giác $CAE$ cân tại $C$ có góc ngoài $\widehat{ACB} \implies \widehat{E} = \frac{1}{2}\widehat{ACB} = \text{không đổi}$.
-  Đoạn $BE = BC + CE = BC + AC$. Trong $\Delta ABE$, cạnh $BE = \frac{AB \cdot \sin \widehat{BAE}}{\sin \widehat{E}}$ lớn nhất khi $\sin \widehat{BAE} = 1$ hoặc khi $C$ là điểm chính giữa của cung lớn $AB$ (khi đó $\Delta ABC$ cân tại $C$).
+- **b) (Đọc thêm – vượt yêu cầu đề đại trà)** Theo câu a), $D$ là điểm chính giữa cung nhỏ $AB$ nên $DA = DB$ (không đổi). Áp dụng hệ thức Ptô-lê-mê (Bài 15.4b) cho tứ giác nội tiếp $ACBD$:
+  $$AC \cdot BD + BC \cdot AD = AB \cdot CD \Rightarrow AC + BC = \frac{AB \cdot CD}{AD} \le \frac{AB \cdot 2R}{AD}$$
+  (vì dây $CD \le 2R$). Dấu "=" xảy ra $\Leftrightarrow CD$ là đường kính $\Leftrightarrow C$ là điểm chính giữa cung lớn $AB$.
   **Kết luận:** Chu vi tam giác $ABC$ lớn nhất khi $C$ là điểm chính giữa của cung lớn $AB$.
 
 ---
